@@ -1,0 +1,14 @@
+diff --git a/index.html b/index.html
+index eb0eb07..bc78da2 100644
+--- a/index.html
++++ b/index.html
+@@ -16,7 +16,8 @@ function myFunction() {
+ </head>
+ <body>
+ 
+-  <h1 onclick="myFunction()">Hey, Ciao Mondo! Andrea</h1>
++  <h2 onclick="myFunction()">Hey, Ciao Mondo! Andrea</h2>
++  <p>Questo è un paragrafo</p>
+ 
+   <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+ 
